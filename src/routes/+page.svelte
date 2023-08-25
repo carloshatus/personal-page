@@ -1,5 +1,5 @@
 <div class="container">
-  <h1>Carlos Hatus</h1>
+  <h1>{"<carloshatus/>"}</h1>
 </div>
 
 <style>
@@ -12,11 +12,11 @@
     height: 100vh;
   }
   h1 {
-    font-size: 8em;
+    font-size: 6vw;
     font-weight: 800;
     font-family: roboto, sans-serif;
-    text-transform: uppercase;
-    background: -webkit-linear-gradient(230deg, #50628f, #160c58);
+    background: rgb(54,41,55);
+    background: linear-gradient(120deg, rgba(54,41,55,1) 2%, rgba(94,128,103,1) 22%, rgba(140,210,155,1) 35%, rgba(52,175,121,1) 52%, rgba(27,58,61,1) 84%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
