@@ -15,8 +15,10 @@
     font-size: 6vw;
     font-weight: 800;
     font-family: roboto, sans-serif;
-    background: rgb(54,41,55);
-    background: linear-gradient(120deg, rgba(54,41,55,1) 2%, rgba(94,128,103,1) 22%, rgba(140,210,155,1) 35%, rgba(52,175,121,1) 52%, rgba(27,58,61,1) 84%);
+    background: rgb(5,14,31);
+    background: -moz-linear-gradient(120deg, rgba(5,14,31,1) 0%, rgba(45,36,64,1) 15%, rgba(105,191,111,1) 55%, rgba(59,126,102,1) 80%, rgba(9,20,26,1) 100%);
+    background: -webkit-linear-gradient(120deg, rgba(5,14,31,1) 0%, rgba(45,36,64,1) 15%, rgba(105,191,111,1) 55%, rgba(59,126,102,1) 80%, rgba(9,20,26,1) 100%);
+    background: linear-gradient(120deg, rgba(5,14,31,1) 0%, rgba(45,36,64,1) 15%, rgba(105,191,111,1) 55%, rgba(59,126,102,1) 80%, rgba(9,20,26,1) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
